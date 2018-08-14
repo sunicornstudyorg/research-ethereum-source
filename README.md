@@ -1,7 +1,7 @@
 # Ethereum源码阅读研究
 
 
-### 1、thereum代码阅读环境搭建
+### 1、Ethereum代码阅读环境搭建
 
 ### 2、Ethereum整体架构
 
